@@ -1,0 +1,3188 @@
+{
+  "cars" : [ {
+    "model-name" : "Audi",
+    "dateOfManufacture" : "02/01/2014",
+    "motor" : {
+      "id" : 3,
+      "factory" : {
+        "id" : 6,
+        "name" : "Volkswagen",
+        "address" : {
+          "id" : 6,
+          "city" : {
+            "id" : 7,
+            "name" : "Borisov"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 8,
+            "numberOfHouse" : "4/3"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        } ]
+      },
+      "force" : 115,
+      "dateOfManufacture" : "08/08/2017"
+    },
+    "transmission" : {
+      "id" : 1,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "06/06/2016"
+    },
+    "body" : {
+      "id" : 3,
+      "factory" : {
+        "id" : 2,
+        "name" : "Shneider",
+        "address" : {
+          "id" : 2,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 2,
+            "name" : "Winners"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 10,
+          "name" : "Zhukov Igor",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "02/08/1995"
+        }, {
+          "id" : 7,
+          "name" : "Ushakov Andrey",
+          "address" : {
+            "id" : 3,
+            "city" : {
+              "id" : 2,
+              "name" : "Vitebsk"
+            },
+            "street" : {
+              "id" : 8,
+              "name" : "Partisanski"
+            },
+            "house" : {
+              "id" : 9,
+              "numberOfHouse" : "5"
+            }
+          },
+          "date" : "21/06/1995"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 1920.0
+    },
+    "customer" : {
+      "id" : 3,
+      "name" : "Petrova Alla",
+      "address" : {
+        "id" : 8,
+        "city" : {
+          "id" : 4,
+          "name" : "Grodno"
+        },
+        "street" : {
+          "id" : 3,
+          "name" : "Dzerzhinskogo"
+        },
+        "house" : {
+          "id" : 4,
+          "numberOfHouse" : "3"
+        }
+      },
+      "date" : "20/05/2008"
+    },
+    "color" : {
+      "id" : 1,
+      "name" : "Red"
+    },
+    "headlights" : [ {
+      "id" : 1,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "name" : "Type_1",
+      "dateOfManufacture" : "10/09/2017",
+      "car" : {
+        "model-name" : "Audi",
+        "dateOfManufacture" : "02/01/2014",
+        "motor" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 6,
+            "name" : "Volkswagen",
+            "address" : {
+              "id" : 6,
+              "city" : {
+                "id" : 7,
+                "name" : "Borisov"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 8,
+                "numberOfHouse" : "4/3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 115,
+          "dateOfManufacture" : "08/08/2017"
+        },
+        "transmission" : {
+          "id" : 1,
+          "factory" : {
+            "id" : 3,
+            "name" : "Siemens",
+            "address" : {
+              "id" : 1,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 1,
+                "name" : "Independence"
+              },
+              "house" : {
+                "id" : 1,
+                "numberOfHouse" : "1"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Manual",
+          "dateOfManufacture" : "06/06/2016"
+        },
+        "body" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1920.0
+        },
+        "customer" : {
+          "id" : 3,
+          "name" : "Petrova Alla",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/05/2008"
+        },
+        "color" : {
+          "id" : 1,
+          "name" : "Red"
+        },
+        "headlights" : null,
+        "id" : 1
+      }
+    }, {
+      "id" : 8,
+      "factory" : {
+        "id" : 6,
+        "name" : "Volkswagen",
+        "address" : {
+          "id" : 6,
+          "city" : {
+            "id" : 7,
+            "name" : "Borisov"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 8,
+            "numberOfHouse" : "4/3"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        } ]
+      },
+      "name" : "Type_6",
+      "dateOfManufacture" : "03/04/2015",
+      "car" : {
+        "model-name" : "Audi",
+        "dateOfManufacture" : "02/01/2014",
+        "motor" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 6,
+            "name" : "Volkswagen",
+            "address" : {
+              "id" : 6,
+              "city" : {
+                "id" : 7,
+                "name" : "Borisov"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 8,
+                "numberOfHouse" : "4/3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 115,
+          "dateOfManufacture" : "08/08/2017"
+        },
+        "transmission" : {
+          "id" : 1,
+          "factory" : {
+            "id" : 3,
+            "name" : "Siemens",
+            "address" : {
+              "id" : 1,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 1,
+                "name" : "Independence"
+              },
+              "house" : {
+                "id" : 1,
+                "numberOfHouse" : "1"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Manual",
+          "dateOfManufacture" : "06/06/2016"
+        },
+        "body" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1920.0
+        },
+        "customer" : {
+          "id" : 3,
+          "name" : "Petrova Alla",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/05/2008"
+        },
+        "color" : {
+          "id" : 1,
+          "name" : "Red"
+        },
+        "headlights" : null,
+        "id" : 1
+      }
+    } ],
+    "id" : 1
+  }, {
+    "model-name" : "BMW",
+    "dateOfManufacture" : "03/02/2016",
+    "motor" : {
+      "id" : 2,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 110,
+      "dateOfManufacture" : "04/05/2015"
+    },
+    "transmission" : {
+      "id" : 2,
+      "factory" : {
+        "id" : 2,
+        "name" : "Shneider",
+        "address" : {
+          "id" : 2,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 2,
+            "name" : "Winners"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 10,
+          "name" : "Zhukov Igor",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "02/08/1995"
+        }, {
+          "id" : 7,
+          "name" : "Ushakov Andrey",
+          "address" : {
+            "id" : 3,
+            "city" : {
+              "id" : 2,
+              "name" : "Vitebsk"
+            },
+            "street" : {
+              "id" : 8,
+              "name" : "Partisanski"
+            },
+            "house" : {
+              "id" : 9,
+              "numberOfHouse" : "5"
+            }
+          },
+          "date" : "21/06/1995"
+        } ]
+      },
+      "name" : "Automatic",
+      "dateOfManufacture" : "03/02/2015"
+    },
+    "body" : {
+      "id" : 4,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "material" : "Steel",
+      "capacity" : 2050.0
+    },
+    "customer" : {
+      "id" : 2,
+      "name" : "Ivanov Andrey",
+      "address" : {
+        "id" : 9,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 4,
+          "name" : "Lenina"
+        },
+        "house" : {
+          "id" : 6,
+          "numberOfHouse" : "4/1"
+        }
+      },
+      "date" : "20/12/2014"
+    },
+    "color" : {
+      "id" : 1,
+      "name" : "Red"
+    },
+    "headlights" : [ {
+      "id" : 2,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "name" : "Type_2",
+      "dateOfManufacture" : "20/12/2016",
+      "car" : {
+        "model-name" : "BMW",
+        "dateOfManufacture" : "03/02/2016",
+        "motor" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 110,
+          "dateOfManufacture" : "04/05/2015"
+        },
+        "transmission" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "03/02/2015"
+        },
+        "body" : {
+          "id" : 4,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Steel",
+          "capacity" : 2050.0
+        },
+        "customer" : {
+          "id" : 2,
+          "name" : "Ivanov Andrey",
+          "address" : {
+            "id" : 9,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 6,
+              "numberOfHouse" : "4/1"
+            }
+          },
+          "date" : "20/12/2014"
+        },
+        "color" : {
+          "id" : 1,
+          "name" : "Red"
+        },
+        "headlights" : null,
+        "id" : 2
+      }
+    }, {
+      "id" : 7,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "name" : "Type_2",
+      "dateOfManufacture" : "04/05/2016",
+      "car" : {
+        "model-name" : "BMW",
+        "dateOfManufacture" : "03/02/2016",
+        "motor" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 110,
+          "dateOfManufacture" : "04/05/2015"
+        },
+        "transmission" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "03/02/2015"
+        },
+        "body" : {
+          "id" : 4,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Steel",
+          "capacity" : 2050.0
+        },
+        "customer" : {
+          "id" : 2,
+          "name" : "Ivanov Andrey",
+          "address" : {
+            "id" : 9,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 6,
+              "numberOfHouse" : "4/1"
+            }
+          },
+          "date" : "20/12/2014"
+        },
+        "color" : {
+          "id" : 1,
+          "name" : "Red"
+        },
+        "headlights" : null,
+        "id" : 2
+      }
+    }, {
+      "id" : 10,
+      "factory" : {
+        "id" : 8,
+        "name" : "Mer?edes",
+        "address" : {
+          "id" : 5,
+          "city" : {
+            "id" : 3,
+            "name" : "Brest"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "name" : "Type_7",
+      "dateOfManufacture" : "01/03/2010",
+      "car" : {
+        "model-name" : "BMW",
+        "dateOfManufacture" : "03/02/2016",
+        "motor" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 110,
+          "dateOfManufacture" : "04/05/2015"
+        },
+        "transmission" : {
+          "id" : 2,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "03/02/2015"
+        },
+        "body" : {
+          "id" : 4,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Steel",
+          "capacity" : 2050.0
+        },
+        "customer" : {
+          "id" : 2,
+          "name" : "Ivanov Andrey",
+          "address" : {
+            "id" : 9,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 6,
+              "numberOfHouse" : "4/1"
+            }
+          },
+          "date" : "20/12/2014"
+        },
+        "color" : {
+          "id" : 1,
+          "name" : "Red"
+        },
+        "headlights" : null,
+        "id" : 2
+      }
+    } ],
+    "id" : 2
+  }, {
+    "model-name" : "Mercedes",
+    "dateOfManufacture" : "10/10/2010",
+    "motor" : {
+      "id" : 1,
+      "factory" : {
+        "id" : 10,
+        "name" : "Reno",
+        "address" : {
+          "id" : 9,
+          "city" : {
+            "id" : 5,
+            "name" : "Gomel"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 6,
+            "numberOfHouse" : "4/1"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 95,
+      "dateOfManufacture" : "02/01/2010"
+    },
+    "transmission" : {
+      "id" : 6,
+      "factory" : {
+        "id" : 9,
+        "name" : "Bettermann",
+        "address" : {
+          "id" : 3,
+          "city" : {
+            "id" : 2,
+            "name" : "Vitebsk"
+          },
+          "street" : {
+            "id" : 8,
+            "name" : "Partisanski"
+          },
+          "house" : {
+            "id" : 9,
+            "numberOfHouse" : "5"
+          }
+        },
+        "owners" : [ {
+          "id" : 3,
+          "name" : "Petrov Petr",
+          "address" : {
+            "id" : 1,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 1,
+              "name" : "Independence"
+            },
+            "house" : {
+              "id" : 1,
+              "numberOfHouse" : "1"
+            }
+          },
+          "date" : "10/06/1987"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "01/09/2016"
+    },
+    "body" : {
+      "id" : 9,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "material" : "Steel",
+      "capacity" : 1910.0
+    },
+    "customer" : {
+      "id" : 5,
+      "name" : "Emelyanov Artur",
+      "address" : {
+        "id" : 7,
+        "city" : {
+          "id" : 9,
+          "name" : "Nesvizh"
+        },
+        "street" : {
+          "id" : 7,
+          "name" : "Nemiga"
+        },
+        "house" : {
+          "id" : 5,
+          "numberOfHouse" : "4"
+        }
+      },
+      "date" : "20/02/2003"
+    },
+    "color" : {
+      "id" : 10,
+      "name" : "Silver"
+    },
+    "headlights" : [ {
+      "id" : 3,
+      "factory" : {
+        "id" : 2,
+        "name" : "Shneider",
+        "address" : {
+          "id" : 2,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 2,
+            "name" : "Winners"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 10,
+          "name" : "Zhukov Igor",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "02/08/1995"
+        }, {
+          "id" : 7,
+          "name" : "Ushakov Andrey",
+          "address" : {
+            "id" : 3,
+            "city" : {
+              "id" : 2,
+              "name" : "Vitebsk"
+            },
+            "street" : {
+              "id" : 8,
+              "name" : "Partisanski"
+            },
+            "house" : {
+              "id" : 9,
+              "numberOfHouse" : "5"
+            }
+          },
+          "date" : "21/06/1995"
+        } ]
+      },
+      "name" : "Type_3",
+      "dateOfManufacture" : "12/11/2016",
+      "car" : {
+        "model-name" : "Mercedes",
+        "dateOfManufacture" : "10/10/2010",
+        "motor" : {
+          "id" : 1,
+          "factory" : {
+            "id" : 10,
+            "name" : "Reno",
+            "address" : {
+              "id" : 9,
+              "city" : {
+                "id" : 5,
+                "name" : "Gomel"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 6,
+                "numberOfHouse" : "4/1"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 95,
+          "dateOfManufacture" : "02/01/2010"
+        },
+        "transmission" : {
+          "id" : 6,
+          "factory" : {
+            "id" : 9,
+            "name" : "Bettermann",
+            "address" : {
+              "id" : 3,
+              "city" : {
+                "id" : 2,
+                "name" : "Vitebsk"
+              },
+              "street" : {
+                "id" : 8,
+                "name" : "Partisanski"
+              },
+              "house" : {
+                "id" : 9,
+                "numberOfHouse" : "5"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Manual",
+          "dateOfManufacture" : "01/09/2016"
+        },
+        "body" : {
+          "id" : 9,
+          "factory" : {
+            "id" : 1,
+            "name" : "ABB",
+            "address" : {
+              "id" : 10,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 5,
+                "name" : "Skariny"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Steel",
+          "capacity" : 1910.0
+        },
+        "customer" : {
+          "id" : 5,
+          "name" : "Emelyanov Artur",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "20/02/2003"
+        },
+        "color" : {
+          "id" : 10,
+          "name" : "Silver"
+        },
+        "headlights" : null,
+        "id" : 3
+      }
+    } ],
+    "id" : 3
+  }, {
+    "model-name" : "Suzuki",
+    "dateOfManufacture" : "09/09/2017",
+    "motor" : {
+      "id" : 3,
+      "factory" : {
+        "id" : 6,
+        "name" : "Volkswagen",
+        "address" : {
+          "id" : 6,
+          "city" : {
+            "id" : 7,
+            "name" : "Borisov"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 8,
+            "numberOfHouse" : "4/3"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        } ]
+      },
+      "force" : 115,
+      "dateOfManufacture" : "08/08/2017"
+    },
+    "transmission" : {
+      "id" : 5,
+      "factory" : {
+        "id" : 7,
+        "name" : "Audi",
+        "address" : {
+          "id" : 7,
+          "city" : {
+            "id" : 9,
+            "name" : "Nesvizh"
+          },
+          "street" : {
+            "id" : 7,
+            "name" : "Nemiga"
+          },
+          "house" : {
+            "id" : 5,
+            "numberOfHouse" : "4"
+          }
+        },
+        "owners" : [ {
+          "id" : 2,
+          "name" : "Ivanova Elena",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "14/11/1990"
+        } ]
+      },
+      "name" : "Automatic",
+      "dateOfManufacture" : "02/03/2014"
+    },
+    "body" : {
+      "id" : 10,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 1970.0
+    },
+    "customer" : {
+      "id" : 6,
+      "name" : "Karpov Igor",
+      "address" : {
+        "id" : 4,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 5,
+          "name" : "Skariny"
+        },
+        "house" : {
+          "id" : 4,
+          "numberOfHouse" : "3"
+        }
+      },
+      "date" : "20/09/2005"
+    },
+    "color" : {
+      "id" : 4,
+      "name" : "Yellow"
+    },
+    "headlights" : [ {
+      "id" : 4,
+      "factory" : {
+        "id" : 2,
+        "name" : "Shneider",
+        "address" : {
+          "id" : 2,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 2,
+            "name" : "Winners"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 10,
+          "name" : "Zhukov Igor",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "02/08/1995"
+        }, {
+          "id" : 7,
+          "name" : "Ushakov Andrey",
+          "address" : {
+            "id" : 3,
+            "city" : {
+              "id" : 2,
+              "name" : "Vitebsk"
+            },
+            "street" : {
+              "id" : 8,
+              "name" : "Partisanski"
+            },
+            "house" : {
+              "id" : 9,
+              "numberOfHouse" : "5"
+            }
+          },
+          "date" : "21/06/1995"
+        } ]
+      },
+      "name" : "Type_1",
+      "dateOfManufacture" : "13/12/2015",
+      "car" : {
+        "model-name" : "Suzuki",
+        "dateOfManufacture" : "09/09/2017",
+        "motor" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 6,
+            "name" : "Volkswagen",
+            "address" : {
+              "id" : 6,
+              "city" : {
+                "id" : 7,
+                "name" : "Borisov"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 8,
+                "numberOfHouse" : "4/3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 115,
+          "dateOfManufacture" : "08/08/2017"
+        },
+        "transmission" : {
+          "id" : 5,
+          "factory" : {
+            "id" : 7,
+            "name" : "Audi",
+            "address" : {
+              "id" : 7,
+              "city" : {
+                "id" : 9,
+                "name" : "Nesvizh"
+              },
+              "street" : {
+                "id" : 7,
+                "name" : "Nemiga"
+              },
+              "house" : {
+                "id" : 5,
+                "numberOfHouse" : "4"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "02/03/2014"
+        },
+        "body" : {
+          "id" : 10,
+          "factory" : {
+            "id" : 1,
+            "name" : "ABB",
+            "address" : {
+              "id" : 10,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 5,
+                "name" : "Skariny"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1970.0
+        },
+        "customer" : {
+          "id" : 6,
+          "name" : "Karpov Igor",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/09/2005"
+        },
+        "color" : {
+          "id" : 4,
+          "name" : "Yellow"
+        },
+        "headlights" : null,
+        "id" : 4
+      }
+    }, {
+      "id" : 9,
+      "factory" : {
+        "id" : 7,
+        "name" : "Audi",
+        "address" : {
+          "id" : 7,
+          "city" : {
+            "id" : 9,
+            "name" : "Nesvizh"
+          },
+          "street" : {
+            "id" : 7,
+            "name" : "Nemiga"
+          },
+          "house" : {
+            "id" : 5,
+            "numberOfHouse" : "4"
+          }
+        },
+        "owners" : [ {
+          "id" : 2,
+          "name" : "Ivanova Elena",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "14/11/1990"
+        } ]
+      },
+      "name" : "Type_4",
+      "dateOfManufacture" : "02/02/2015",
+      "car" : {
+        "model-name" : "Suzuki",
+        "dateOfManufacture" : "09/09/2017",
+        "motor" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 6,
+            "name" : "Volkswagen",
+            "address" : {
+              "id" : 6,
+              "city" : {
+                "id" : 7,
+                "name" : "Borisov"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 8,
+                "numberOfHouse" : "4/3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 115,
+          "dateOfManufacture" : "08/08/2017"
+        },
+        "transmission" : {
+          "id" : 5,
+          "factory" : {
+            "id" : 7,
+            "name" : "Audi",
+            "address" : {
+              "id" : 7,
+              "city" : {
+                "id" : 9,
+                "name" : "Nesvizh"
+              },
+              "street" : {
+                "id" : 7,
+                "name" : "Nemiga"
+              },
+              "house" : {
+                "id" : 5,
+                "numberOfHouse" : "4"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "02/03/2014"
+        },
+        "body" : {
+          "id" : 10,
+          "factory" : {
+            "id" : 1,
+            "name" : "ABB",
+            "address" : {
+              "id" : 10,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 5,
+                "name" : "Skariny"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1970.0
+        },
+        "customer" : {
+          "id" : 6,
+          "name" : "Karpov Igor",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/09/2005"
+        },
+        "color" : {
+          "id" : 4,
+          "name" : "Yellow"
+        },
+        "headlights" : null,
+        "id" : 4
+      }
+    } ],
+    "id" : 4
+  }, {
+    "model-name" : "Lada",
+    "dateOfManufacture" : "03/03/2018",
+    "motor" : {
+      "id" : 5,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 80,
+      "dateOfManufacture" : "09/10/2017"
+    },
+    "transmission" : {
+      "id" : 9,
+      "factory" : {
+        "id" : 10,
+        "name" : "Reno",
+        "address" : {
+          "id" : 9,
+          "city" : {
+            "id" : 5,
+            "name" : "Gomel"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 6,
+            "numberOfHouse" : "4/1"
+          }
+        },
+        "owners" : [ ]
+      },
+      "name" : "Automatic",
+      "dateOfManufacture" : "04/03/2016"
+    },
+    "body" : {
+      "id" : 10,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 1970.0
+    },
+    "customer" : {
+      "id" : 2,
+      "name" : "Ivanov Andrey",
+      "address" : {
+        "id" : 9,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 4,
+          "name" : "Lenina"
+        },
+        "house" : {
+          "id" : 6,
+          "numberOfHouse" : "4/1"
+        }
+      },
+      "date" : "20/12/2014"
+    },
+    "color" : {
+      "id" : 2,
+      "name" : "Black"
+    },
+    "headlights" : [ {
+      "id" : 5,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "name" : "Type_1",
+      "dateOfManufacture" : "02/01/2014",
+      "car" : {
+        "model-name" : "Lada",
+        "dateOfManufacture" : "03/03/2018",
+        "motor" : {
+          "id" : 5,
+          "factory" : {
+            "id" : 5,
+            "name" : "Opel",
+            "address" : {
+              "id" : 8,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 3,
+                "name" : "Dzerzhinskogo"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 80,
+          "dateOfManufacture" : "09/10/2017"
+        },
+        "transmission" : {
+          "id" : 9,
+          "factory" : {
+            "id" : 10,
+            "name" : "Reno",
+            "address" : {
+              "id" : 9,
+              "city" : {
+                "id" : 5,
+                "name" : "Gomel"
+              },
+              "street" : {
+                "id" : 4,
+                "name" : "Lenina"
+              },
+              "house" : {
+                "id" : 6,
+                "numberOfHouse" : "4/1"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Automatic",
+          "dateOfManufacture" : "04/03/2016"
+        },
+        "body" : {
+          "id" : 10,
+          "factory" : {
+            "id" : 1,
+            "name" : "ABB",
+            "address" : {
+              "id" : 10,
+              "city" : {
+                "id" : 4,
+                "name" : "Grodno"
+              },
+              "street" : {
+                "id" : 5,
+                "name" : "Skariny"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1970.0
+        },
+        "customer" : {
+          "id" : 2,
+          "name" : "Ivanov Andrey",
+          "address" : {
+            "id" : 9,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 6,
+              "numberOfHouse" : "4/1"
+            }
+          },
+          "date" : "20/12/2014"
+        },
+        "color" : {
+          "id" : 2,
+          "name" : "Black"
+        },
+        "headlights" : null,
+        "id" : 5
+      }
+    } ],
+    "id" : 5
+  }, {
+    "model-name" : "Kia",
+    "dateOfManufacture" : "02/01/2016",
+    "motor" : {
+      "id" : 6,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "force" : 100,
+      "dateOfManufacture" : "06/09/2016"
+    },
+    "transmission" : {
+      "id" : 8,
+      "factory" : {
+        "id" : 4,
+        "name" : "Volvo",
+        "address" : {
+          "id" : 4,
+          "city" : {
+            "id" : 5,
+            "name" : "Gomel"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "01/01/2017"
+    },
+    "body" : {
+      "id" : 3,
+      "factory" : {
+        "id" : 2,
+        "name" : "Shneider",
+        "address" : {
+          "id" : 2,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 2,
+            "name" : "Winners"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 10,
+          "name" : "Zhukov Igor",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "02/08/1995"
+        }, {
+          "id" : 7,
+          "name" : "Ushakov Andrey",
+          "address" : {
+            "id" : 3,
+            "city" : {
+              "id" : 2,
+              "name" : "Vitebsk"
+            },
+            "street" : {
+              "id" : 8,
+              "name" : "Partisanski"
+            },
+            "house" : {
+              "id" : 9,
+              "numberOfHouse" : "5"
+            }
+          },
+          "date" : "21/06/1995"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 1920.0
+    },
+    "customer" : {
+      "id" : 3,
+      "name" : "Petrova Alla",
+      "address" : {
+        "id" : 8,
+        "city" : {
+          "id" : 4,
+          "name" : "Grodno"
+        },
+        "street" : {
+          "id" : 3,
+          "name" : "Dzerzhinskogo"
+        },
+        "house" : {
+          "id" : 4,
+          "numberOfHouse" : "3"
+        }
+      },
+      "date" : "20/05/2008"
+    },
+    "color" : {
+      "id" : 6,
+      "name" : "Blue"
+    },
+    "headlights" : [ {
+      "id" : 6,
+      "factory" : {
+        "id" : 4,
+        "name" : "Volvo",
+        "address" : {
+          "id" : 4,
+          "city" : {
+            "id" : 5,
+            "name" : "Gomel"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        } ]
+      },
+      "name" : "Type_4",
+      "dateOfManufacture" : "03/03/2015",
+      "car" : {
+        "model-name" : "Kia",
+        "dateOfManufacture" : "02/01/2016",
+        "motor" : {
+          "id" : 6,
+          "factory" : {
+            "id" : 3,
+            "name" : "Siemens",
+            "address" : {
+              "id" : 1,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 1,
+                "name" : "Independence"
+              },
+              "house" : {
+                "id" : 1,
+                "numberOfHouse" : "1"
+              }
+            },
+            "owners" : null
+          },
+          "force" : 100,
+          "dateOfManufacture" : "06/09/2016"
+        },
+        "transmission" : {
+          "id" : 8,
+          "factory" : {
+            "id" : 4,
+            "name" : "Volvo",
+            "address" : {
+              "id" : 4,
+              "city" : {
+                "id" : 5,
+                "name" : "Gomel"
+              },
+              "street" : {
+                "id" : 5,
+                "name" : "Skariny"
+              },
+              "house" : {
+                "id" : 4,
+                "numberOfHouse" : "3"
+              }
+            },
+            "owners" : null
+          },
+          "name" : "Manual",
+          "dateOfManufacture" : "01/01/2017"
+        },
+        "body" : {
+          "id" : 3,
+          "factory" : {
+            "id" : 2,
+            "name" : "Shneider",
+            "address" : {
+              "id" : 2,
+              "city" : {
+                "id" : 1,
+                "name" : "Minsk"
+              },
+              "street" : {
+                "id" : 2,
+                "name" : "Winners"
+              },
+              "house" : {
+                "id" : 3,
+                "numberOfHouse" : "2"
+              }
+            },
+            "owners" : null
+          },
+          "material" : "Plastic",
+          "capacity" : 1920.0
+        },
+        "customer" : {
+          "id" : 3,
+          "name" : "Petrova Alla",
+          "address" : {
+            "id" : 8,
+            "city" : {
+              "id" : 4,
+              "name" : "Grodno"
+            },
+            "street" : {
+              "id" : 3,
+              "name" : "Dzerzhinskogo"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/05/2008"
+        },
+        "color" : {
+          "id" : 6,
+          "name" : "Blue"
+        },
+        "headlights" : null,
+        "id" : 6
+      }
+    } ],
+    "id" : 6
+  }, {
+    "model-name" : "Reno",
+    "dateOfManufacture" : "03/03/2015",
+    "motor" : {
+      "id" : 7,
+      "factory" : {
+        "id" : 8,
+        "name" : "Mer?edes",
+        "address" : {
+          "id" : 5,
+          "city" : {
+            "id" : 3,
+            "name" : "Brest"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 98,
+      "dateOfManufacture" : "05/02/2016"
+    },
+    "transmission" : {
+      "id" : 4,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "09/07/2016"
+    },
+    "body" : {
+      "id" : 4,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "material" : "Steel",
+      "capacity" : 2050.0
+    },
+    "customer" : {
+      "id" : 6,
+      "name" : "Karpov Igor",
+      "address" : {
+        "id" : 4,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 5,
+          "name" : "Skariny"
+        },
+        "house" : {
+          "id" : 4,
+          "numberOfHouse" : "3"
+        }
+      },
+      "date" : "20/09/2005"
+    },
+    "color" : {
+      "id" : 10,
+      "name" : "Silver"
+    },
+    "headlights" : [ ],
+    "id" : 7
+  }, {
+    "model-name" : "Volkswagen",
+    "dateOfManufacture" : "12/12/2013",
+    "motor" : {
+      "id" : 6,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "force" : 100,
+      "dateOfManufacture" : "06/09/2016"
+    },
+    "transmission" : {
+      "id" : 3,
+      "factory" : {
+        "id" : 1,
+        "name" : "ABB",
+        "address" : {
+          "id" : 10,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 3,
+            "numberOfHouse" : "2"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        }, {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        }, {
+          "id" : 5,
+          "name" : "Sidorova Alla",
+          "address" : {
+            "id" : 6,
+            "city" : {
+              "id" : 7,
+              "name" : "Borisov"
+            },
+            "street" : {
+              "id" : 4,
+              "name" : "Lenina"
+            },
+            "house" : {
+              "id" : 8,
+              "numberOfHouse" : "4/3"
+            }
+          },
+          "date" : "13/10/1975"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "01/04/2018"
+    },
+    "body" : {
+      "id" : 5,
+      "factory" : {
+        "id" : 6,
+        "name" : "Volkswagen",
+        "address" : {
+          "id" : 6,
+          "city" : {
+            "id" : 7,
+            "name" : "Borisov"
+          },
+          "street" : {
+            "id" : 4,
+            "name" : "Lenina"
+          },
+          "house" : {
+            "id" : 8,
+            "numberOfHouse" : "4/3"
+          }
+        },
+        "owners" : [ {
+          "id" : 1,
+          "name" : "Ivanov Ivan",
+          "address" : {
+            "id" : 2,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 2,
+              "name" : "Winners"
+            },
+            "house" : {
+              "id" : 3,
+              "numberOfHouse" : "2"
+            }
+          },
+          "date" : "13/12/1983"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 2100.0
+    },
+    "customer" : {
+      "id" : 7,
+      "name" : "Kasparov Alexey",
+      "address" : {
+        "id" : 3,
+        "city" : {
+          "id" : 2,
+          "name" : "Vitebsk"
+        },
+        "street" : {
+          "id" : 8,
+          "name" : "Partisanski"
+        },
+        "house" : {
+          "id" : 9,
+          "numberOfHouse" : "5"
+        }
+      },
+      "date" : "20/06/2006"
+    },
+    "color" : {
+      "id" : 8,
+      "name" : "Purple"
+    },
+    "headlights" : [ ],
+    "id" : 8
+  }, {
+    "model-name" : "Toyota",
+    "dateOfManufacture" : "10/10/2010",
+    "motor" : {
+      "id" : 5,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 80,
+      "dateOfManufacture" : "09/10/2017"
+    },
+    "transmission" : {
+      "id" : 1,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "06/06/2016"
+    },
+    "body" : {
+      "id" : 6,
+      "factory" : {
+        "id" : 9,
+        "name" : "Bettermann",
+        "address" : {
+          "id" : 3,
+          "city" : {
+            "id" : 2,
+            "name" : "Vitebsk"
+          },
+          "street" : {
+            "id" : 8,
+            "name" : "Partisanski"
+          },
+          "house" : {
+            "id" : 9,
+            "numberOfHouse" : "5"
+          }
+        },
+        "owners" : [ {
+          "id" : 3,
+          "name" : "Petrov Petr",
+          "address" : {
+            "id" : 1,
+            "city" : {
+              "id" : 1,
+              "name" : "Minsk"
+            },
+            "street" : {
+              "id" : 1,
+              "name" : "Independence"
+            },
+            "house" : {
+              "id" : 1,
+              "numberOfHouse" : "1"
+            }
+          },
+          "date" : "10/06/1987"
+        } ]
+      },
+      "material" : "Plastic",
+      "capacity" : 1985.0
+    },
+    "customer" : {
+      "id" : 6,
+      "name" : "Karpov Igor",
+      "address" : {
+        "id" : 4,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 5,
+          "name" : "Skariny"
+        },
+        "house" : {
+          "id" : 4,
+          "numberOfHouse" : "3"
+        }
+      },
+      "date" : "20/09/2005"
+    },
+    "color" : {
+      "id" : 7,
+      "name" : "Orange"
+    },
+    "headlights" : [ ],
+    "id" : 9
+  }, {
+    "model-name" : "Mitsubishi",
+    "dateOfManufacture" : "11/11/2017",
+    "motor" : {
+      "id" : 2,
+      "factory" : {
+        "id" : 5,
+        "name" : "Opel",
+        "address" : {
+          "id" : 8,
+          "city" : {
+            "id" : 4,
+            "name" : "Grodno"
+          },
+          "street" : {
+            "id" : 3,
+            "name" : "Dzerzhinskogo"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ ]
+      },
+      "force" : 110,
+      "dateOfManufacture" : "04/05/2015"
+    },
+    "transmission" : {
+      "id" : 1,
+      "factory" : {
+        "id" : 3,
+        "name" : "Siemens",
+        "address" : {
+          "id" : 1,
+          "city" : {
+            "id" : 1,
+            "name" : "Minsk"
+          },
+          "street" : {
+            "id" : 1,
+            "name" : "Independence"
+          },
+          "house" : {
+            "id" : 1,
+            "numberOfHouse" : "1"
+          }
+        },
+        "owners" : [ {
+          "id" : 9,
+          "name" : "Pushkin Alexey",
+          "address" : {
+            "id" : 7,
+            "city" : {
+              "id" : 9,
+              "name" : "Nesvizh"
+            },
+            "street" : {
+              "id" : 7,
+              "name" : "Nemiga"
+            },
+            "house" : {
+              "id" : 5,
+              "numberOfHouse" : "4"
+            }
+          },
+          "date" : "01/05/1994"
+        } ]
+      },
+      "name" : "Manual",
+      "dateOfManufacture" : "06/06/2016"
+    },
+    "body" : {
+      "id" : 2,
+      "factory" : {
+        "id" : 4,
+        "name" : "Volvo",
+        "address" : {
+          "id" : 4,
+          "city" : {
+            "id" : 5,
+            "name" : "Gomel"
+          },
+          "street" : {
+            "id" : 5,
+            "name" : "Skariny"
+          },
+          "house" : {
+            "id" : 4,
+            "numberOfHouse" : "3"
+          }
+        },
+        "owners" : [ {
+          "id" : 4,
+          "name" : "Sidorov Ivan",
+          "address" : {
+            "id" : 4,
+            "city" : {
+              "id" : 5,
+              "name" : "Gomel"
+            },
+            "street" : {
+              "id" : 5,
+              "name" : "Skariny"
+            },
+            "house" : {
+              "id" : 4,
+              "numberOfHouse" : "3"
+            }
+          },
+          "date" : "20/12/1997"
+        } ]
+      },
+      "material" : "Steel",
+      "capacity" : 2000.0
+    },
+    "customer" : {
+      "id" : 2,
+      "name" : "Ivanov Andrey",
+      "address" : {
+        "id" : 9,
+        "city" : {
+          "id" : 5,
+          "name" : "Gomel"
+        },
+        "street" : {
+          "id" : 4,
+          "name" : "Lenina"
+        },
+        "house" : {
+          "id" : 6,
+          "numberOfHouse" : "4/1"
+        }
+      },
+      "date" : "20/12/2014"
+    },
+    "color" : {
+      "id" : 7,
+      "name" : "Orange"
+    },
+    "headlights" : [ ],
+    "id" : 10
+  } ]
+}

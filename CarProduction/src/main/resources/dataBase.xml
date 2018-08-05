@@ -1,0 +1,3249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+    <cars>
+        <car>
+            <id>1</id>
+            <model>Audi</model>
+            <dateOfManufacture>02/01/2014</dateOfManufacture>
+            <motor>
+                <id>3</id>
+                <factory>
+                    <id>6</id>
+                    <name>Volkswagen</name>
+                    <address>
+                        <id>6</id>
+                        <city>
+                            <id>7</id>
+                            <name>Borisov</name>
+                        </city>
+                        <street>
+                            <id>4</id>
+                            <name>Lenina</name>
+                        </street>
+                        <house>
+                            <id>8</id>
+                            <numberOfHouse>4/3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <force>115</force>
+                <dateOfManufacture>08/08/2017</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>1</id>
+                <factory>
+                    <id>3</id>
+                    <name>Siemens</name>
+                    <address>
+                        <id>1</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>1</id>
+                            <name>Independence</name>
+                        </street>
+                        <house>
+                            <id>1</id>
+                            <numberOfHouse>1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>9</id>
+                            <name>Pushkin Alexey</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>01/05/1994</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>06/06/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>3</id>
+                <factory>
+                    <id>2</id>
+                    <name>Shneider</name>
+                    <address>
+                        <id>2</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>2</id>
+                            <name>Winners</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>10</id>
+                            <name>Zhukov Igor</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>02/08/1995</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>7</id>
+                            <name>Ushakov Andrey</name>
+                            <address>
+<id>3</id>
+<city>
+    <id>2</id>
+    <name>Vitebsk</name>
+</city>
+<street>
+    <id>8</id>
+    <name>Partisanski</name>
+</street>
+<house>
+    <id>9</id>
+    <numberOfHouse>5</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>21/06/1995</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>1920.0</capacity>
+            </body>
+            <customer>
+                <id>3</id>
+                <name>Petrova Alla</name>
+                <address>
+                    <id>8</id>
+                    <city>
+                        <id>4</id>
+                        <name>Grodno</name>
+                    </city>
+                    <street>
+                        <id>3</id>
+                        <name>Dzerzhinskogo</name>
+                    </street>
+                    <house>
+                        <id>4</id>
+                        <numberOfHouse>3</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/05/2008</dateOfPurchase>
+            </customer>
+            <color>
+                <id>1</id>
+                <name>Red</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>1</id>
+                    <factory>
+                        <id>1</id>
+                        <name>ABB</name>
+                        <address>
+                            <id>10</id>
+                            <city>
+<id>4</id>
+<name>Grodno</name>
+                            </city>
+                            <street>
+<id>5</id>
+<name>Skariny</name>
+                            </street>
+                            <house>
+<id>3</id>
+<numberOfHouse>2</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>1</id>
+<name>Ivanov Ivan</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>13/12/1983</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>4</id>
+<name>Sidorov Ivan</name>
+<address>
+    <id>4</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>20/12/1997</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>5</id>
+<name>Sidorova Alla</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>13/10/1975</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_1</name>
+                    <dateOfManufacture>10/09/2017</dateOfManufacture>
+                    <car>
+                        <id>1</id>
+                        <model>Audi</model>
+                        <dateOfManufacture>02/01/2014</dateOfManufacture>
+                        <motor>
+                            <id>3</id>
+                            <factory>
+<id>6</id>
+<name>Volkswagen</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>115</force>
+                            <dateOfManufacture>08/08/2017</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>1</id>
+                            <factory>
+<id>3</id>
+<name>Siemens</name>
+<address>
+    <id>1</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>1</id>
+        <name>Independence</name>
+    </street>
+    <house>
+        <id>1</id>
+        <numberOfHouse>1</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Manual</name>
+                            <dateOfManufacture>06/06/2016</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>3</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1920.0</capacity>
+                        </body>
+                        <customer>
+                            <id>3</id>
+                            <name>Petrova Alla</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/05/2008</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>1</id>
+                            <name>Red</name>
+                        </color>
+                    </car>
+                </headlight>
+                <headlight>
+                    <id>8</id>
+                    <factory>
+                        <id>6</id>
+                        <name>Volkswagen</name>
+                        <address>
+                            <id>6</id>
+                            <city>
+<id>7</id>
+<name>Borisov</name>
+                            </city>
+                            <street>
+<id>4</id>
+<name>Lenina</name>
+                            </street>
+                            <house>
+<id>8</id>
+<numberOfHouse>4/3</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>1</id>
+<name>Ivanov Ivan</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>13/12/1983</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_6</name>
+                    <dateOfManufacture>03/04/2015</dateOfManufacture>
+                    <car>
+                        <id>1</id>
+                        <model>Audi</model>
+                        <dateOfManufacture>02/01/2014</dateOfManufacture>
+                        <motor>
+                            <id>3</id>
+                            <factory>
+<id>6</id>
+<name>Volkswagen</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>115</force>
+                            <dateOfManufacture>08/08/2017</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>1</id>
+                            <factory>
+<id>3</id>
+<name>Siemens</name>
+<address>
+    <id>1</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>1</id>
+        <name>Independence</name>
+    </street>
+    <house>
+        <id>1</id>
+        <numberOfHouse>1</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Manual</name>
+                            <dateOfManufacture>06/06/2016</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>3</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1920.0</capacity>
+                        </body>
+                        <customer>
+                            <id>3</id>
+                            <name>Petrova Alla</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/05/2008</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>1</id>
+                            <name>Red</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>2</id>
+            <model>BMW</model>
+            <dateOfManufacture>03/02/2016</dateOfManufacture>
+            <motor>
+                <id>2</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>110</force>
+                <dateOfManufacture>04/05/2015</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>2</id>
+                <factory>
+                    <id>2</id>
+                    <name>Shneider</name>
+                    <address>
+                        <id>2</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>2</id>
+                            <name>Winners</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>10</id>
+                            <name>Zhukov Igor</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>02/08/1995</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>7</id>
+                            <name>Ushakov Andrey</name>
+                            <address>
+<id>3</id>
+<city>
+    <id>2</id>
+    <name>Vitebsk</name>
+</city>
+<street>
+    <id>8</id>
+    <name>Partisanski</name>
+</street>
+<house>
+    <id>9</id>
+    <numberOfHouse>5</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>21/06/1995</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Automatic</name>
+                <dateOfManufacture>03/02/2015</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>4</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <material>Steel</material>
+                <capacity>2050.0</capacity>
+            </body>
+            <customer>
+                <id>2</id>
+                <name>Ivanov Andrey</name>
+                <address>
+                    <id>9</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>4</id>
+                        <name>Lenina</name>
+                    </street>
+                    <house>
+                        <id>6</id>
+                        <numberOfHouse>4/1</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/12/2014</dateOfPurchase>
+            </customer>
+            <color>
+                <id>1</id>
+                <name>Red</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>2</id>
+                    <factory>
+                        <id>1</id>
+                        <name>ABB</name>
+                        <address>
+                            <id>10</id>
+                            <city>
+<id>4</id>
+<name>Grodno</name>
+                            </city>
+                            <street>
+<id>5</id>
+<name>Skariny</name>
+                            </street>
+                            <house>
+<id>3</id>
+<numberOfHouse>2</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>1</id>
+<name>Ivanov Ivan</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>13/12/1983</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>4</id>
+<name>Sidorov Ivan</name>
+<address>
+    <id>4</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>20/12/1997</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>5</id>
+<name>Sidorova Alla</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>13/10/1975</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_2</name>
+                    <dateOfManufacture>20/12/2016</dateOfManufacture>
+                    <car>
+                        <id>2</id>
+                        <model>BMW</model>
+                        <dateOfManufacture>03/02/2016</dateOfManufacture>
+                        <motor>
+                            <id>2</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>110</force>
+                            <dateOfManufacture>04/05/2015</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>2</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>03/02/2015</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>4</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Steel</material>
+                            <capacity>2050.0</capacity>
+                        </body>
+                        <customer>
+                            <id>2</id>
+                            <name>Ivanov Andrey</name>
+                            <address>
+<id>9</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>6</id>
+    <numberOfHouse>4/1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/2014</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>1</id>
+                            <name>Red</name>
+                        </color>
+                    </car>
+                </headlight>
+                <headlight>
+                    <id>7</id>
+                    <factory>
+                        <id>5</id>
+                        <name>Opel</name>
+                        <address>
+                            <id>8</id>
+                            <city>
+<id>4</id>
+<name>Grodno</name>
+                            </city>
+                            <street>
+<id>3</id>
+<name>Dzerzhinskogo</name>
+                            </street>
+                            <house>
+<id>4</id>
+<numberOfHouse>3</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners/>
+                    </factory>
+                    <name>Type_2</name>
+                    <dateOfManufacture>04/05/2016</dateOfManufacture>
+                    <car>
+                        <id>2</id>
+                        <model>BMW</model>
+                        <dateOfManufacture>03/02/2016</dateOfManufacture>
+                        <motor>
+                            <id>2</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>110</force>
+                            <dateOfManufacture>04/05/2015</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>2</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>03/02/2015</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>4</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Steel</material>
+                            <capacity>2050.0</capacity>
+                        </body>
+                        <customer>
+                            <id>2</id>
+                            <name>Ivanov Andrey</name>
+                            <address>
+<id>9</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>6</id>
+    <numberOfHouse>4/1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/2014</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>1</id>
+                            <name>Red</name>
+                        </color>
+                    </car>
+                </headlight>
+                <headlight>
+                    <id>10</id>
+                    <factory>
+                        <id>8</id>
+                        <name>Mer?edes</name>
+                        <address>
+                            <id>5</id>
+                            <city>
+<id>3</id>
+<name>Brest</name>
+                            </city>
+                            <street>
+<id>5</id>
+<name>Skariny</name>
+                            </street>
+                            <house>
+<id>4</id>
+<numberOfHouse>3</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners/>
+                    </factory>
+                    <name>Type_7</name>
+                    <dateOfManufacture>01/03/2010</dateOfManufacture>
+                    <car>
+                        <id>2</id>
+                        <model>BMW</model>
+                        <dateOfManufacture>03/02/2016</dateOfManufacture>
+                        <motor>
+                            <id>2</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>110</force>
+                            <dateOfManufacture>04/05/2015</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>2</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>03/02/2015</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>4</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Steel</material>
+                            <capacity>2050.0</capacity>
+                        </body>
+                        <customer>
+                            <id>2</id>
+                            <name>Ivanov Andrey</name>
+                            <address>
+<id>9</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>6</id>
+    <numberOfHouse>4/1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/2014</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>1</id>
+                            <name>Red</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>3</id>
+            <model>Mercedes</model>
+            <dateOfManufacture>10/10/2010</dateOfManufacture>
+            <motor>
+                <id>1</id>
+                <factory>
+                    <id>10</id>
+                    <name>Reno</name>
+                    <address>
+                        <id>9</id>
+                        <city>
+                            <id>5</id>
+                            <name>Gomel</name>
+                        </city>
+                        <street>
+                            <id>4</id>
+                            <name>Lenina</name>
+                        </street>
+                        <house>
+                            <id>6</id>
+                            <numberOfHouse>4/1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>95</force>
+                <dateOfManufacture>02/01/2010</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>6</id>
+                <factory>
+                    <id>9</id>
+                    <name>Bettermann</name>
+                    <address>
+                        <id>3</id>
+                        <city>
+                            <id>2</id>
+                            <name>Vitebsk</name>
+                        </city>
+                        <street>
+                            <id>8</id>
+                            <name>Partisanski</name>
+                        </street>
+                        <house>
+                            <id>9</id>
+                            <numberOfHouse>5</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>3</id>
+                            <name>Petrov Petr</name>
+                            <address>
+<id>1</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>1</id>
+    <name>Independence</name>
+</street>
+<house>
+    <id>1</id>
+    <numberOfHouse>1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>10/06/1987</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>01/09/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>9</id>
+                <factory>
+                    <id>1</id>
+                    <name>ABB</name>
+                    <address>
+                        <id>10</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>5</id>
+                            <name>Sidorova Alla</name>
+                            <address>
+<id>6</id>
+<city>
+    <id>7</id>
+    <name>Borisov</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>8</id>
+    <numberOfHouse>4/3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/10/1975</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Steel</material>
+                <capacity>1910.0</capacity>
+            </body>
+            <customer>
+                <id>5</id>
+                <name>Emelyanov Artur</name>
+                <address>
+                    <id>7</id>
+                    <city>
+                        <id>9</id>
+                        <name>Nesvizh</name>
+                    </city>
+                    <street>
+                        <id>7</id>
+                        <name>Nemiga</name>
+                    </street>
+                    <house>
+                        <id>5</id>
+                        <numberOfHouse>4</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/02/2003</dateOfPurchase>
+            </customer>
+            <color>
+                <id>10</id>
+                <name>Silver</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>3</id>
+                    <factory>
+                        <id>2</id>
+                        <name>Shneider</name>
+                        <address>
+                            <id>2</id>
+                            <city>
+<id>1</id>
+<name>Minsk</name>
+                            </city>
+                            <street>
+<id>2</id>
+<name>Winners</name>
+                            </street>
+                            <house>
+<id>3</id>
+<numberOfHouse>2</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>10</id>
+<name>Zhukov Igor</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>02/08/1995</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>7</id>
+<name>Ushakov Andrey</name>
+<address>
+    <id>3</id>
+    <city>
+        <id>2</id>
+        <name>Vitebsk</name>
+    </city>
+    <street>
+        <id>8</id>
+        <name>Partisanski</name>
+    </street>
+    <house>
+        <id>9</id>
+        <numberOfHouse>5</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>21/06/1995</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_3</name>
+                    <dateOfManufacture>12/11/2016</dateOfManufacture>
+                    <car>
+                        <id>3</id>
+                        <model>Mercedes</model>
+                        <dateOfManufacture>10/10/2010</dateOfManufacture>
+                        <motor>
+                            <id>1</id>
+                            <factory>
+<id>10</id>
+<name>Reno</name>
+<address>
+    <id>9</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>6</id>
+        <numberOfHouse>4/1</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>95</force>
+                            <dateOfManufacture>02/01/2010</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>6</id>
+                            <factory>
+<id>9</id>
+<name>Bettermann</name>
+<address>
+    <id>3</id>
+    <city>
+        <id>2</id>
+        <name>Vitebsk</name>
+    </city>
+    <street>
+        <id>8</id>
+        <name>Partisanski</name>
+    </street>
+    <house>
+        <id>9</id>
+        <numberOfHouse>5</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Manual</name>
+                            <dateOfManufacture>01/09/2016</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>9</id>
+                            <factory>
+<id>1</id>
+<name>ABB</name>
+<address>
+    <id>10</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Steel</material>
+                            <capacity>1910.0</capacity>
+                        </body>
+                        <customer>
+                            <id>5</id>
+                            <name>Emelyanov Artur</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/02/2003</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>10</id>
+                            <name>Silver</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>4</id>
+            <model>Suzuki</model>
+            <dateOfManufacture>09/09/2017</dateOfManufacture>
+            <motor>
+                <id>3</id>
+                <factory>
+                    <id>6</id>
+                    <name>Volkswagen</name>
+                    <address>
+                        <id>6</id>
+                        <city>
+                            <id>7</id>
+                            <name>Borisov</name>
+                        </city>
+                        <street>
+                            <id>4</id>
+                            <name>Lenina</name>
+                        </street>
+                        <house>
+                            <id>8</id>
+                            <numberOfHouse>4/3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <force>115</force>
+                <dateOfManufacture>08/08/2017</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>5</id>
+                <factory>
+                    <id>7</id>
+                    <name>Audi</name>
+                    <address>
+                        <id>7</id>
+                        <city>
+                            <id>9</id>
+                            <name>Nesvizh</name>
+                        </city>
+                        <street>
+                            <id>7</id>
+                            <name>Nemiga</name>
+                        </street>
+                        <house>
+                            <id>5</id>
+                            <numberOfHouse>4</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>2</id>
+                            <name>Ivanova Elena</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>14/11/1990</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Automatic</name>
+                <dateOfManufacture>02/03/2014</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>10</id>
+                <factory>
+                    <id>1</id>
+                    <name>ABB</name>
+                    <address>
+                        <id>10</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>5</id>
+                            <name>Sidorova Alla</name>
+                            <address>
+<id>6</id>
+<city>
+    <id>7</id>
+    <name>Borisov</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>8</id>
+    <numberOfHouse>4/3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/10/1975</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>1970.0</capacity>
+            </body>
+            <customer>
+                <id>6</id>
+                <name>Karpov Igor</name>
+                <address>
+                    <id>4</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>5</id>
+                        <name>Skariny</name>
+                    </street>
+                    <house>
+                        <id>4</id>
+                        <numberOfHouse>3</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/09/2005</dateOfPurchase>
+            </customer>
+            <color>
+                <id>4</id>
+                <name>Yellow</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>4</id>
+                    <factory>
+                        <id>2</id>
+                        <name>Shneider</name>
+                        <address>
+                            <id>2</id>
+                            <city>
+<id>1</id>
+<name>Minsk</name>
+                            </city>
+                            <street>
+<id>2</id>
+<name>Winners</name>
+                            </street>
+                            <house>
+<id>3</id>
+<numberOfHouse>2</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>10</id>
+<name>Zhukov Igor</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>02/08/1995</dateOfPurchase>
+                            </owner>
+                            <owner>
+<id>7</id>
+<name>Ushakov Andrey</name>
+<address>
+    <id>3</id>
+    <city>
+        <id>2</id>
+        <name>Vitebsk</name>
+    </city>
+    <street>
+        <id>8</id>
+        <name>Partisanski</name>
+    </street>
+    <house>
+        <id>9</id>
+        <numberOfHouse>5</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>21/06/1995</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_1</name>
+                    <dateOfManufacture>13/12/2015</dateOfManufacture>
+                    <car>
+                        <id>4</id>
+                        <model>Suzuki</model>
+                        <dateOfManufacture>09/09/2017</dateOfManufacture>
+                        <motor>
+                            <id>3</id>
+                            <factory>
+<id>6</id>
+<name>Volkswagen</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>115</force>
+                            <dateOfManufacture>08/08/2017</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>5</id>
+                            <factory>
+<id>7</id>
+<name>Audi</name>
+<address>
+    <id>7</id>
+    <city>
+        <id>9</id>
+        <name>Nesvizh</name>
+    </city>
+    <street>
+        <id>7</id>
+        <name>Nemiga</name>
+    </street>
+    <house>
+        <id>5</id>
+        <numberOfHouse>4</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>02/03/2014</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>10</id>
+                            <factory>
+<id>1</id>
+<name>ABB</name>
+<address>
+    <id>10</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1970.0</capacity>
+                        </body>
+                        <customer>
+                            <id>6</id>
+                            <name>Karpov Igor</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/09/2005</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>4</id>
+                            <name>Yellow</name>
+                        </color>
+                    </car>
+                </headlight>
+                <headlight>
+                    <id>9</id>
+                    <factory>
+                        <id>7</id>
+                        <name>Audi</name>
+                        <address>
+                            <id>7</id>
+                            <city>
+<id>9</id>
+<name>Nesvizh</name>
+                            </city>
+                            <street>
+<id>7</id>
+<name>Nemiga</name>
+                            </street>
+                            <house>
+<id>5</id>
+<numberOfHouse>4</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>2</id>
+<name>Ivanova Elena</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>14/11/1990</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_4</name>
+                    <dateOfManufacture>02/02/2015</dateOfManufacture>
+                    <car>
+                        <id>4</id>
+                        <model>Suzuki</model>
+                        <dateOfManufacture>09/09/2017</dateOfManufacture>
+                        <motor>
+                            <id>3</id>
+                            <factory>
+<id>6</id>
+<name>Volkswagen</name>
+<address>
+    <id>6</id>
+    <city>
+        <id>7</id>
+        <name>Borisov</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>8</id>
+        <numberOfHouse>4/3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>115</force>
+                            <dateOfManufacture>08/08/2017</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>5</id>
+                            <factory>
+<id>7</id>
+<name>Audi</name>
+<address>
+    <id>7</id>
+    <city>
+        <id>9</id>
+        <name>Nesvizh</name>
+    </city>
+    <street>
+        <id>7</id>
+        <name>Nemiga</name>
+    </street>
+    <house>
+        <id>5</id>
+        <numberOfHouse>4</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>02/03/2014</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>10</id>
+                            <factory>
+<id>1</id>
+<name>ABB</name>
+<address>
+    <id>10</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1970.0</capacity>
+                        </body>
+                        <customer>
+                            <id>6</id>
+                            <name>Karpov Igor</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/09/2005</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>4</id>
+                            <name>Yellow</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>5</id>
+            <model>Lada</model>
+            <dateOfManufacture>03/03/2018</dateOfManufacture>
+            <motor>
+                <id>5</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>80</force>
+                <dateOfManufacture>09/10/2017</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>9</id>
+                <factory>
+                    <id>10</id>
+                    <name>Reno</name>
+                    <address>
+                        <id>9</id>
+                        <city>
+                            <id>5</id>
+                            <name>Gomel</name>
+                        </city>
+                        <street>
+                            <id>4</id>
+                            <name>Lenina</name>
+                        </street>
+                        <house>
+                            <id>6</id>
+                            <numberOfHouse>4/1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <name>Automatic</name>
+                <dateOfManufacture>04/03/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>10</id>
+                <factory>
+                    <id>1</id>
+                    <name>ABB</name>
+                    <address>
+                        <id>10</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>5</id>
+                            <name>Sidorova Alla</name>
+                            <address>
+<id>6</id>
+<city>
+    <id>7</id>
+    <name>Borisov</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>8</id>
+    <numberOfHouse>4/3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/10/1975</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>1970.0</capacity>
+            </body>
+            <customer>
+                <id>2</id>
+                <name>Ivanov Andrey</name>
+                <address>
+                    <id>9</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>4</id>
+                        <name>Lenina</name>
+                    </street>
+                    <house>
+                        <id>6</id>
+                        <numberOfHouse>4/1</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/12/2014</dateOfPurchase>
+            </customer>
+            <color>
+                <id>2</id>
+                <name>Black</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>5</id>
+                    <factory>
+                        <id>3</id>
+                        <name>Siemens</name>
+                        <address>
+                            <id>1</id>
+                            <city>
+<id>1</id>
+<name>Minsk</name>
+                            </city>
+                            <street>
+<id>1</id>
+<name>Independence</name>
+                            </street>
+                            <house>
+<id>1</id>
+<numberOfHouse>1</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>9</id>
+<name>Pushkin Alexey</name>
+<address>
+    <id>7</id>
+    <city>
+        <id>9</id>
+        <name>Nesvizh</name>
+    </city>
+    <street>
+        <id>7</id>
+        <name>Nemiga</name>
+    </street>
+    <house>
+        <id>5</id>
+        <numberOfHouse>4</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>01/05/1994</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_1</name>
+                    <dateOfManufacture>02/01/2014</dateOfManufacture>
+                    <car>
+                        <id>5</id>
+                        <model>Lada</model>
+                        <dateOfManufacture>03/03/2018</dateOfManufacture>
+                        <motor>
+                            <id>5</id>
+                            <factory>
+<id>5</id>
+<name>Opel</name>
+<address>
+    <id>8</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>3</id>
+        <name>Dzerzhinskogo</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>80</force>
+                            <dateOfManufacture>09/10/2017</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>9</id>
+                            <factory>
+<id>10</id>
+<name>Reno</name>
+<address>
+    <id>9</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>4</id>
+        <name>Lenina</name>
+    </street>
+    <house>
+        <id>6</id>
+        <numberOfHouse>4/1</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Automatic</name>
+                            <dateOfManufacture>04/03/2016</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>10</id>
+                            <factory>
+<id>1</id>
+<name>ABB</name>
+<address>
+    <id>10</id>
+    <city>
+        <id>4</id>
+        <name>Grodno</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1970.0</capacity>
+                        </body>
+                        <customer>
+                            <id>2</id>
+                            <name>Ivanov Andrey</name>
+                            <address>
+<id>9</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>6</id>
+    <numberOfHouse>4/1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/2014</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>2</id>
+                            <name>Black</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>6</id>
+            <model>Kia</model>
+            <dateOfManufacture>02/01/2016</dateOfManufacture>
+            <motor>
+                <id>6</id>
+                <factory>
+                    <id>3</id>
+                    <name>Siemens</name>
+                    <address>
+                        <id>1</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>1</id>
+                            <name>Independence</name>
+                        </street>
+                        <house>
+                            <id>1</id>
+                            <numberOfHouse>1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>9</id>
+                            <name>Pushkin Alexey</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>01/05/1994</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <force>100</force>
+                <dateOfManufacture>06/09/2016</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>8</id>
+                <factory>
+                    <id>4</id>
+                    <name>Volvo</name>
+                    <address>
+                        <id>4</id>
+                        <city>
+                            <id>5</id>
+                            <name>Gomel</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>01/01/2017</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>3</id>
+                <factory>
+                    <id>2</id>
+                    <name>Shneider</name>
+                    <address>
+                        <id>2</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>2</id>
+                            <name>Winners</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>10</id>
+                            <name>Zhukov Igor</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>02/08/1995</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>7</id>
+                            <name>Ushakov Andrey</name>
+                            <address>
+<id>3</id>
+<city>
+    <id>2</id>
+    <name>Vitebsk</name>
+</city>
+<street>
+    <id>8</id>
+    <name>Partisanski</name>
+</street>
+<house>
+    <id>9</id>
+    <numberOfHouse>5</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>21/06/1995</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>1920.0</capacity>
+            </body>
+            <customer>
+                <id>3</id>
+                <name>Petrova Alla</name>
+                <address>
+                    <id>8</id>
+                    <city>
+                        <id>4</id>
+                        <name>Grodno</name>
+                    </city>
+                    <street>
+                        <id>3</id>
+                        <name>Dzerzhinskogo</name>
+                    </street>
+                    <house>
+                        <id>4</id>
+                        <numberOfHouse>3</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/05/2008</dateOfPurchase>
+            </customer>
+            <color>
+                <id>6</id>
+                <name>Blue</name>
+            </color>
+            <headlights>
+                <headlight>
+                    <id>6</id>
+                    <factory>
+                        <id>4</id>
+                        <name>Volvo</name>
+                        <address>
+                            <id>4</id>
+                            <city>
+<id>5</id>
+<name>Gomel</name>
+                            </city>
+                            <street>
+<id>5</id>
+<name>Skariny</name>
+                            </street>
+                            <house>
+<id>4</id>
+<numberOfHouse>3</numberOfHouse>
+                            </house>
+                        </address>
+                        <owners>
+                            <owner>
+<id>4</id>
+<name>Sidorov Ivan</name>
+<address>
+    <id>4</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+<dateOfPurchase>20/12/1997</dateOfPurchase>
+                            </owner>
+                        </owners>
+                    </factory>
+                    <name>Type_4</name>
+                    <dateOfManufacture>03/03/2015</dateOfManufacture>
+                    <car>
+                        <id>6</id>
+                        <model>Kia</model>
+                        <dateOfManufacture>02/01/2016</dateOfManufacture>
+                        <motor>
+                            <id>6</id>
+                            <factory>
+<id>3</id>
+<name>Siemens</name>
+<address>
+    <id>1</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>1</id>
+        <name>Independence</name>
+    </street>
+    <house>
+        <id>1</id>
+        <numberOfHouse>1</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <force>100</force>
+                            <dateOfManufacture>06/09/2016</dateOfManufacture>
+                        </motor>
+                        <transmission>
+                            <id>8</id>
+                            <factory>
+<id>4</id>
+<name>Volvo</name>
+<address>
+    <id>4</id>
+    <city>
+        <id>5</id>
+        <name>Gomel</name>
+    </city>
+    <street>
+        <id>5</id>
+        <name>Skariny</name>
+    </street>
+    <house>
+        <id>4</id>
+        <numberOfHouse>3</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <name>Manual</name>
+                            <dateOfManufacture>01/01/2017</dateOfManufacture>
+                        </transmission>
+                        <body>
+                            <id>3</id>
+                            <factory>
+<id>2</id>
+<name>Shneider</name>
+<address>
+    <id>2</id>
+    <city>
+        <id>1</id>
+        <name>Minsk</name>
+    </city>
+    <street>
+        <id>2</id>
+        <name>Winners</name>
+    </street>
+    <house>
+        <id>3</id>
+        <numberOfHouse>2</numberOfHouse>
+    </house>
+</address>
+                            </factory>
+                            <material>Plastic</material>
+                            <capacity>1920.0</capacity>
+                        </body>
+                        <customer>
+                            <id>3</id>
+                            <name>Petrova Alla</name>
+                            <address>
+<id>8</id>
+<city>
+    <id>4</id>
+    <name>Grodno</name>
+</city>
+<street>
+    <id>3</id>
+    <name>Dzerzhinskogo</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/05/2008</dateOfPurchase>
+                        </customer>
+                        <color>
+                            <id>6</id>
+                            <name>Blue</name>
+                        </color>
+                    </car>
+                </headlight>
+            </headlights>
+        </car>
+        <car>
+            <id>7</id>
+            <model>Reno</model>
+            <dateOfManufacture>03/03/2015</dateOfManufacture>
+            <motor>
+                <id>7</id>
+                <factory>
+                    <id>8</id>
+                    <name>Mer?edes</name>
+                    <address>
+                        <id>5</id>
+                        <city>
+                            <id>3</id>
+                            <name>Brest</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>98</force>
+                <dateOfManufacture>05/02/2016</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>4</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>09/07/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>4</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <material>Steel</material>
+                <capacity>2050.0</capacity>
+            </body>
+            <customer>
+                <id>6</id>
+                <name>Karpov Igor</name>
+                <address>
+                    <id>4</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>5</id>
+                        <name>Skariny</name>
+                    </street>
+                    <house>
+                        <id>4</id>
+                        <numberOfHouse>3</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/09/2005</dateOfPurchase>
+            </customer>
+            <color>
+                <id>10</id>
+                <name>Silver</name>
+            </color>
+            <headlights/>
+        </car>
+        <car>
+            <id>8</id>
+            <model>Volkswagen</model>
+            <dateOfManufacture>12/12/2013</dateOfManufacture>
+            <motor>
+                <id>6</id>
+                <factory>
+                    <id>3</id>
+                    <name>Siemens</name>
+                    <address>
+                        <id>1</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>1</id>
+                            <name>Independence</name>
+                        </street>
+                        <house>
+                            <id>1</id>
+                            <numberOfHouse>1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>9</id>
+                            <name>Pushkin Alexey</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>01/05/1994</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <force>100</force>
+                <dateOfManufacture>06/09/2016</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>3</id>
+                <factory>
+                    <id>1</id>
+                    <name>ABB</name>
+                    <address>
+                        <id>10</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>3</id>
+                            <numberOfHouse>2</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                        <owner>
+                            <id>5</id>
+                            <name>Sidorova Alla</name>
+                            <address>
+<id>6</id>
+<city>
+    <id>7</id>
+    <name>Borisov</name>
+</city>
+<street>
+    <id>4</id>
+    <name>Lenina</name>
+</street>
+<house>
+    <id>8</id>
+    <numberOfHouse>4/3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/10/1975</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>01/04/2018</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>5</id>
+                <factory>
+                    <id>6</id>
+                    <name>Volkswagen</name>
+                    <address>
+                        <id>6</id>
+                        <city>
+                            <id>7</id>
+                            <name>Borisov</name>
+                        </city>
+                        <street>
+                            <id>4</id>
+                            <name>Lenina</name>
+                        </street>
+                        <house>
+                            <id>8</id>
+                            <numberOfHouse>4/3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>1</id>
+                            <name>Ivanov Ivan</name>
+                            <address>
+<id>2</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>2</id>
+    <name>Winners</name>
+</street>
+<house>
+    <id>3</id>
+    <numberOfHouse>2</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>13/12/1983</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>2100.0</capacity>
+            </body>
+            <customer>
+                <id>7</id>
+                <name>Kasparov Alexey</name>
+                <address>
+                    <id>3</id>
+                    <city>
+                        <id>2</id>
+                        <name>Vitebsk</name>
+                    </city>
+                    <street>
+                        <id>8</id>
+                        <name>Partisanski</name>
+                    </street>
+                    <house>
+                        <id>9</id>
+                        <numberOfHouse>5</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/06/2006</dateOfPurchase>
+            </customer>
+            <color>
+                <id>8</id>
+                <name>Purple</name>
+            </color>
+            <headlights/>
+        </car>
+        <car>
+            <id>9</id>
+            <model>Toyota</model>
+            <dateOfManufacture>10/10/2010</dateOfManufacture>
+            <motor>
+                <id>5</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>80</force>
+                <dateOfManufacture>09/10/2017</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>1</id>
+                <factory>
+                    <id>3</id>
+                    <name>Siemens</name>
+                    <address>
+                        <id>1</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>1</id>
+                            <name>Independence</name>
+                        </street>
+                        <house>
+                            <id>1</id>
+                            <numberOfHouse>1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>9</id>
+                            <name>Pushkin Alexey</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>01/05/1994</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>06/06/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>6</id>
+                <factory>
+                    <id>9</id>
+                    <name>Bettermann</name>
+                    <address>
+                        <id>3</id>
+                        <city>
+                            <id>2</id>
+                            <name>Vitebsk</name>
+                        </city>
+                        <street>
+                            <id>8</id>
+                            <name>Partisanski</name>
+                        </street>
+                        <house>
+                            <id>9</id>
+                            <numberOfHouse>5</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>3</id>
+                            <name>Petrov Petr</name>
+                            <address>
+<id>1</id>
+<city>
+    <id>1</id>
+    <name>Minsk</name>
+</city>
+<street>
+    <id>1</id>
+    <name>Independence</name>
+</street>
+<house>
+    <id>1</id>
+    <numberOfHouse>1</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>10/06/1987</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Plastic</material>
+                <capacity>1985.0</capacity>
+            </body>
+            <customer>
+                <id>6</id>
+                <name>Karpov Igor</name>
+                <address>
+                    <id>4</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>5</id>
+                        <name>Skariny</name>
+                    </street>
+                    <house>
+                        <id>4</id>
+                        <numberOfHouse>3</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/09/2005</dateOfPurchase>
+            </customer>
+            <color>
+                <id>7</id>
+                <name>Orange</name>
+            </color>
+            <headlights/>
+        </car>
+        <car>
+            <id>10</id>
+            <model>Mitsubishi</model>
+            <dateOfManufacture>11/11/2017</dateOfManufacture>
+            <motor>
+                <id>2</id>
+                <factory>
+                    <id>5</id>
+                    <name>Opel</name>
+                    <address>
+                        <id>8</id>
+                        <city>
+                            <id>4</id>
+                            <name>Grodno</name>
+                        </city>
+                        <street>
+                            <id>3</id>
+                            <name>Dzerzhinskogo</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners/>
+                </factory>
+                <force>110</force>
+                <dateOfManufacture>04/05/2015</dateOfManufacture>
+            </motor>
+            <transmission>
+                <id>1</id>
+                <factory>
+                    <id>3</id>
+                    <name>Siemens</name>
+                    <address>
+                        <id>1</id>
+                        <city>
+                            <id>1</id>
+                            <name>Minsk</name>
+                        </city>
+                        <street>
+                            <id>1</id>
+                            <name>Independence</name>
+                        </street>
+                        <house>
+                            <id>1</id>
+                            <numberOfHouse>1</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>9</id>
+                            <name>Pushkin Alexey</name>
+                            <address>
+<id>7</id>
+<city>
+    <id>9</id>
+    <name>Nesvizh</name>
+</city>
+<street>
+    <id>7</id>
+    <name>Nemiga</name>
+</street>
+<house>
+    <id>5</id>
+    <numberOfHouse>4</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>01/05/1994</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <name>Manual</name>
+                <dateOfManufacture>06/06/2016</dateOfManufacture>
+            </transmission>
+            <body>
+                <id>2</id>
+                <factory>
+                    <id>4</id>
+                    <name>Volvo</name>
+                    <address>
+                        <id>4</id>
+                        <city>
+                            <id>5</id>
+                            <name>Gomel</name>
+                        </city>
+                        <street>
+                            <id>5</id>
+                            <name>Skariny</name>
+                        </street>
+                        <house>
+                            <id>4</id>
+                            <numberOfHouse>3</numberOfHouse>
+                        </house>
+                    </address>
+                    <owners>
+                        <owner>
+                            <id>4</id>
+                            <name>Sidorov Ivan</name>
+                            <address>
+<id>4</id>
+<city>
+    <id>5</id>
+    <name>Gomel</name>
+</city>
+<street>
+    <id>5</id>
+    <name>Skariny</name>
+</street>
+<house>
+    <id>4</id>
+    <numberOfHouse>3</numberOfHouse>
+</house>
+                            </address>
+                            <dateOfPurchase>20/12/1997</dateOfPurchase>
+                        </owner>
+                    </owners>
+                </factory>
+                <material>Steel</material>
+                <capacity>2000.0</capacity>
+            </body>
+            <customer>
+                <id>2</id>
+                <name>Ivanov Andrey</name>
+                <address>
+                    <id>9</id>
+                    <city>
+                        <id>5</id>
+                        <name>Gomel</name>
+                    </city>
+                    <street>
+                        <id>4</id>
+                        <name>Lenina</name>
+                    </street>
+                    <house>
+                        <id>6</id>
+                        <numberOfHouse>4/1</numberOfHouse>
+                    </house>
+                </address>
+                <dateOfPurchase>20/12/2014</dateOfPurchase>
+            </customer>
+            <color>
+                <id>7</id>
+                <name>Orange</name>
+            </color>
+            <headlights/>
+        </car>
+    </cars>
+</cars>

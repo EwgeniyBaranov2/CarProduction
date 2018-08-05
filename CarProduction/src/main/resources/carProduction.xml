@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Cars>
+ 
+ <Car>
+ 	<Model>Audi</Model>
+ 	<DateOfManufacture>2017-12-12</DateOfManufacture>
+ 	<Motor>
+ 		<Force>115</Force>
+ 		<DateOfManufacture>2017-08-08</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Volkswagen</Name>
+ 			<Address>
+ 				<City>Borisov</City>
+ 				<Street> Lenina</Street>
+ 				<House> 4/3</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2016-06-06</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Siemens</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Independence</Street>
+ 				<House>1</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Pushkin Alexey</Name>
+ 					<DateOfBirth>1994-05-01</DateOfBirth>
+ 					<Address>
+ 						<City>Nesvizh</City>
+ 						<Street>Nemiga</Street>
+ 						<House>4</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>1920.0</Capacity>
+ 		<Factory>
+ 			<Name>Shneider</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Winners </Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Zhukov Igor</Name>
+ 					<DateOfBirth>1995-08-02 </DateOfBirth>
+ 					<Address>
+ 						<City>Grodno</City>
+ 						<Street>Dzerzhinskogo</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Ushakov Andrey</Name>
+ 					<DateOfBirth>1995-06-21 </DateOfBirth>
+ 					<Address>
+ 						<City>Vitebsk</City>
+ 						<Street>Partisanski</Street>
+ 						<House>5</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_1</Name>
+ 			<DateOfManufacture>2017-09-10</DateOfManufacture>
+ 			<Factory>
+ 				<Name>ABB</Name>
+ 				<Address>
+ 					<City> Grodno</City>
+ 					<Street> Skariny</Street>
+ 					<House> 2</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Ivanov Ivan</Name>
+ 						<DateOfBirth>1983-12-13 </DateOfBirth>
+ 						<Address>
+ 							<City>Minsk</City>
+ 							<Street>Winners</Street>
+ 							<House>2</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Sidorov Ivan</Name>
+ 						<DateOfBirth>1997-12-20</DateOfBirth>
+ 						<Address>
+ 							<City>Gomel</City>
+ 							<Street>Skariny</Street>
+ 							<House>3</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Sidorova Alla</Name>
+ 						<DateOfBirth>1975-10-13 </DateOfBirth>
+ 						<Address>
+ 							<City>Borisov</City>
+ 							<Street>Lenina</Street>
+ 							<House>4/3</House>
+ 						</Address>	
+ 					</Owner>
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight>
+ 		<Headlight>
+ 			<Name>Type_6</Name>
+ 			<DateOfManufacture>2015-04-03</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Volkswagen</Name>
+ 				<Address>
+ 					<City>Borisov</City>
+ 					<Street>Lenina</Street>
+ 					<House>4/3</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Ivanov Ivan</Name>
+ 						<DateOfBirth>1983-12-13</DateOfBirth>
+ 						<Address>
+ 							<City>Minsk</City>
+ 							<Street>Winners</Street>
+ 							<House>2</House>
+ 						</Address>	
+ 					</Owner> 					
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight>
+ 		
+ 	</Headlights>
+ 	<Customer>
+ 		<Name>Petrova Alla</Name>
+ 		<Date>2008-05-20</Date>
+ 		<Address>
+ 			<City>Grodno</City>
+ 			<Street>Dzerzhinskogo</Street>
+ 			<House>3</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Red</Color> 	 	
+</Car>
+ 
+<Car>
+ 	<Model>BMW</Model>
+ 	<DateOfManufacture>2016-02-03</DateOfManufacture>
+ 	<Motor>
+ 		<Force>110</Force>
+ 		<DateOfManufacture>2015-05-04</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Automatic</Name>
+ 		<DateOfManufacture>2015-02-03</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Shneider</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Winners</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Zhukov Igor</Name>
+ 					<DateOfBirth>1995-08-02</DateOfBirth>
+ 					<Address>
+ 						<City>Grodno</City>
+ 						<Street>Dzerzhinskogo</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Ushakov Andrey</Name>
+ 					<DateOfBirth>1995-06-21</DateOfBirth>
+ 					<Address>
+ 						<City>Vitebsk</City>
+ 						<Street>Partisanski</Street>
+ 						<House>5</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Steel</Material>
+ 		<Capacity>2050.0</Capacity>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_2</Name>
+ 			<DateOfManufacture>2016-12-20</DateOfManufacture>
+ 			<Factory>
+ 				<Name>ABB</Name>
+ 				<Address>
+ 					<City>Grodno</City>
+ 					<Street>Skariny</Street>
+ 					<House>3</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Ivanov Ivan</Name>
+ 						<DateOfBirth>1983-12-13</DateOfBirth>
+ 						<Address>
+ 							<City>Minsk</City>
+ 							<Street>Winners</Street>
+ 							<House>2</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Sidorov Ivan</Name>
+ 						<DateOfBirth>1997-12-20</DateOfBirth>
+ 						<Address>
+ 							<City>Gomel</City>
+ 							<Street>Skariny</Street>
+ 							<House>3</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Sidorova Alla</Name>
+ 						<DateOfBirth>1975-10-13</DateOfBirth>
+ 						<Address>
+ 							<City>Borisov</City>
+ 							<Street>Lenina</Street>
+ 							<House>4/3</House>
+ 						</Address>	
+ 					</Owner>
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight>
+ 		<Headlight>
+ 			<Name>Type_7</Name>
+ 			<DateOfManufacture>2010-03-01</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Mercedes</Name>
+ 				<Address>
+ 					<City>Brest</City>
+ 					<Street>Skariny</Street>
+ 					<House>3</House>
+ 				</Address> 				
+ 			</Factory>
+ 		</Headlight> 		
+ 	</Headlights>
+ 	
+ 	<Customer>
+ 		<Name>Ivanov Andrey</Name>
+ 		<Date>2014-12-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Lenina</Street>
+ 			<House>4/1</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Red</Color> 	 	
+</Car> 
+
+<Car>
+ 	<Model>Mercedes</Model>
+ 	<DateOfManufacture>2010-10-10</DateOfManufacture>
+ 	<Motor>
+ 		<Force>95</Force>
+ 		<DateOfManufacture>2010-01-02</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Reno</Name>
+ 			<Address>
+ 				<City>Gomel</City>
+ 				<Street>Lenina</Street>
+ 				<House>4/1</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2016-09-01</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Bettermann</Name>
+ 			<Address>
+ 				<City>Vitebsk</City>
+ 				<Street>Partisanski</Street>
+ 				<House>5</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Steel</Material>
+ 		<Capacity>1910.0</Capacity>
+ 		<Factory>
+ 			<Name>ABB</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Skariny</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				 <Owner>
+ 					<Name>Sidorova Alla</Name>
+ 					<DateOfBirth>1975-10-13</DateOfBirth>
+ 					<Address>
+ 						<City>Borisov</City>
+ 						<Street>Lenina</Street>
+ 						<House>4/3</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_3</Name>
+ 			<DateOfManufacture>2016-11-12</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Shneider</Name>
+ 				<Address>
+ 					<City>Minsk</City>
+ 					<Street>Winners</Street>
+ 					<House>2</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Zhukov Igor</Name>
+ 						<DateOfBirth>1995-08-02 </DateOfBirth>
+ 						<Address>
+ 							<City>Grodno</City>
+ 							<Street>Dzerzhinskogo</Street>
+ 							<House>3</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Ushakov Andrey</Name>
+ 						<DateOfBirth>1995-06-21</DateOfBirth>
+ 						<Address>
+ 							<City>Vitebsk</City>
+ 							<Street>Partisanski</Street>
+ 							<House>5</House>
+ 						</Address>	
+ 					</Owner>
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight> 		
+ 	</Headlights>
+ 	
+ 	<Customer>
+ 		<Name>Emelyanov Artur</Name>
+ 		<Date>2003-02-20</Date>
+ 		<Address>
+ 			<City>Nesvizh</City>
+ 			<Street>Nemiga</Street>
+ 			<House>4</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Silver</Color> 	 	
+</Car>  
+ 
+<Car>
+ 	<Model>Suzuki</Model>
+ 	<DateOfManufacture>2017-09-09</DateOfManufacture>
+ 	<Motor>
+ 		<Force>115</Force>
+ 		<DateOfManufacture>2017-08-08</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Volkswagen</Name>
+ 			<Address>
+ 				<City>Borisov</City>
+ 				<Street>Lenina</Street>
+ 				<House>4/3</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Automatic</Name>
+ 		<DateOfManufacture>2014-03-02</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Audi</Name>
+ 			<Address>
+ 				<City>Nesvizh</City>
+ 				<Street>Nemiga</Street>
+ 				<House>4</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanova Elena</Name>
+ 					<DateOfBirth>1990-11-14</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>1970.0</Capacity>
+ 		<Factory>
+ 			<Name>ABB</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Skariny</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorova Alla</Name>
+ 					<DateOfBirth>1975-10-13</DateOfBirth>
+ 					<Address>
+ 						<City>Borisov</City>
+ 						<Street>Lenina</Street>
+ 						<House>4/3</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_1</Name>
+ 			<DateOfManufacture>2015-12-13</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Shneider</Name>
+ 				<Address>
+ 					<City>Minsk</City>
+ 					<Street>Winners</Street>
+ 					<House>2</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Zhukov Igor</Name>
+ 						<DateOfBirth>1995-08-02</DateOfBirth>
+ 						<Address>
+ 							<City>Grodno</City>
+ 							<Street>Dzerzhinskogo</Street>
+ 							<House>3</House>
+ 						</Address>	
+ 					</Owner>
+ 					<Owner>
+ 						<Name>Ushakov Andrey</Name>
+ 						<DateOfBirth>995-06-21 </DateOfBirth>
+ 						<Address>
+ 							<City>Vitebsk</City>
+ 							<Street>Partisanski</Street>
+ 							<House>5</House>
+ 						</Address>	
+ 					</Owner>
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight> 
+ 		<Headlight>
+ 			<Name>Type_4</Name>
+ 			<DateOfManufacture>2015-02-02</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Audi</Name>
+ 				<Address>
+ 					<City>Nesvizh</City>
+ 					<Street>Nemiga</Street>
+ 					<House>4</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Ivanova Elena</Name>
+ 						<DateOfBirth>1990-11-14</DateOfBirth>
+ 						<Address>
+ 							<City>Minsk</City>
+ 							<Street>Winners</Street>
+ 							<House>2</House>
+ 						</Address>	
+ 					</Owner> 					
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight> 				
+ 	</Headlights>
+ 	
+ 	<Customer>
+ 		<Name>Karpov Igor</Name>
+ 		<Date>2005-09-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Skariny</Street>
+ 			<House>3</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Yellow</Color> 	 	
+</Car>  
+
+<Car>
+ 	<Model>Lada</Model>
+ 	<DateOfManufacture>2018-03-03</DateOfManufacture>
+ 	<Motor>
+ 		<Force>80</Force>
+ 		<DateOfManufacture>2017-10-09</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Automatic</Name>
+ 		<DateOfManufacture>2016-03-04</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Reno</Name>
+ 			<Address>
+ 				<City>Gomel</City>
+ 				<Street>Lenina</Street>
+ 				<House>4/1</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>1970.0</Capacity>
+ 		<Factory>
+ 			<Name>ABB</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Skariny</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorova Alla</Name>
+ 					<DateOfBirth>1975-10-13 </DateOfBirth>
+ 					<Address>
+ 						<City>Borisov</City>
+ 						<Street>Lenina</Street>
+ 						<House>4/3</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_1</Name>
+ 			<DateOfManufacture>2014-01-02</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Siemens</Name>
+ 				<Address>
+ 					<City>Minsk</City>
+ 					<Street>Independence</Street>
+ 					<House>1</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Pushkin Alexey</Name>
+ 						<DateOfBirth>1994-05-01</DateOfBirth>
+ 						<Address>
+ 							<City>Nesvizh</City>
+ 							<Street>Nemiga</Street>
+ 							<House>4</House>
+ 						</Address>	
+ 					</Owner> 					
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight> 
+ 	</Headlights>
+ 	
+ 	<Customer>
+ 		<Name>Ivanov Andrey</Name>
+ 		<Date>2014-12-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Lenina</Street>
+ 			<House>6</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Black</Color> 	 	
+</Car>  
+ 
+ <Car>
+ 	<Model>Kia</Model>
+ 	<DateOfManufacture>2016-01-02</DateOfManufacture>
+ 	<Motor>
+ 		<Force>100</Force>
+ 		<DateOfManufacture>2016-09-06</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Siemens</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Independence</Street>
+ 				<House>1</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Pushkin Alexey</Name>
+ 					<DateOfBirth>1994-05-01</DateOfBirth>
+ 					<Address>
+ 						<City>Nesvizh</City>
+ 						<Street>Nemiga</Street>
+ 						<House>4</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2017-01-01</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Volvo</Name>
+ 			<Address>
+ 				<City>Gomel</City>
+ 				<Street>Skariny</Street>
+ 				<House>3</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>1920.0</Capacity>
+ 		<Factory>
+ 			<Name>Shneider</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Winners</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Zhukov Igor</Name>
+ 					<DateOfBirth>1995-08-02</DateOfBirth>
+ 					<Address>
+ 						<City>Grodno</City>
+ 						<Street>Dzerzhinskogo</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Ushakov Andrey</Name>
+ 					<DateOfBirth>1995-06-21</DateOfBirth>
+ 					<Address>
+ 						<City>Vitebsk</City>
+ 						<Street>Partisanski</Street>
+ 						<House>5</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	
+ 	
+ 	<Headlights>
+ 		<Headlight>
+ 			<Name>Type_4</Name>
+ 			<DateOfManufacture>2015-03-03</DateOfManufacture>
+ 			<Factory>
+ 				<Name>Volvo</Name>
+ 				<Address>
+ 					<City>Gomel</City>
+ 					<Street>Skariny</Street>
+ 					<House>3</House>
+ 				</Address>
+ 				<Owners>
+ 					<Owner>
+ 						<Name>Sidorov Ivan</Name>
+ 						<DateOfBirth>1997-12-20</DateOfBirth>
+ 						<Address>
+ 							<City>Gomel</City>
+ 							<Street>Skariny</Street>
+ 							<House>3</House>
+ 						</Address>	
+ 					</Owner> 					
+ 				</Owners>
+ 			</Factory>
+ 		</Headlight> 
+ 	</Headlights>
+ 	
+ 	<Customer>
+ 		<Name>Petrova Alla</Name>
+ 		<Date>2008-05-20</Date>
+ 		<Address>
+ 			<City>Grodno</City>
+ 			<Street>Dzerzhinskogo</Street>
+ 			<House>3</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Blue</Color> 	 	
+</Car> 
+
+ <Car>
+ 	<Model>Reno</Model>
+ 	<DateOfManufacture>2015-03-03</DateOfManufacture>
+ 	<Motor>
+ 		<Force>98</Force>
+ 		<DateOfManufacture>2016-02-05</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Mercedes</Name>
+ 			<Address>
+ 				<City>Brest</City>
+ 				<Street>Skariny</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2016-07-09</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Steel</Material>
+ 		<Capacity>2050.0</Capacity>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Body>	 	
+ 	
+ 	<Customer>
+ 		<Name>Karpov Igor</Name>
+ 		<Date>2005-09-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Skariny</Street>
+ 			<House>3</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Silver</Color> 	 	
+</Car> 
+
+ <Car>
+ 	<Model>Volkswagen</Model>
+ 	<DateOfManufacture>2013-12-12</DateOfManufacture>
+ 	<Motor>
+ 		<Force>100</Force>
+ 		<DateOfManufacture>2016-09-06</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Siemens</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Independence</Street>
+ 				<House>1</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Pushkin Alexey</Name>
+ 					<DateOfBirth>1994-05-01</DateOfBirth>
+ 					<Address>
+ 						<City>Nesvizh</City>
+ 						<Street>Nemiga</Street>
+ 						<House>4</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2018-04-01</DateOfManufacture>
+ 		<Factory>
+ 			<Name>ABB</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Skariny</Street>
+ 				<House>2</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner>
+ 				<Owner>
+ 					<Name>Sidorova Alla</Name>
+ 					<DateOfBirth>1975-10-13</DateOfBirth>
+ 					<Address>
+ 						<City>Borisov</City>
+ 						<Street>Lenina</Street>
+ 						<House>4/3</House>
+ 					</Address>	
+ 				</Owner>
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>2100.0</Capacity>
+ 		<Factory>
+ 			<Name>Volkswagen</Name>
+ 			<Address>
+ 				<City>Borisov</City>
+ 				<Street>Lenina</Street>
+ 				<House>4/3</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Ivanov Ivan</Name>
+ 					<DateOfBirth>1983-12-13 </DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Winners</Street>
+ 						<House>2</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Body>
+ 	
+ 	<Customer>
+ 		<Name>Kasparov Alexey</Name>
+ 		<Date>2006-06-20</Date>
+ 		<Address>
+ 			<City>Vitebsk</City>
+ 			<Street>Partisanski</Street>
+ 			<House>5</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Purple</Color> 	 	
+</Car> 
+
+ <Car>
+ 	<Model>Toyota</Model>
+ 	<DateOfManufacture>2010-10-10</DateOfManufacture>
+ 	<Motor>
+ 		<Force>80</Force>
+ 		<DateOfManufacture>2017-10-09</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2016-06-06</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Siemens</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Independence</Street>
+ 				<House>1</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Pushkin Alexey</Name>
+ 					<DateOfBirth>1994-05-01</DateOfBirth>
+ 					<Address>
+ 						<City>Nesvizh</City>
+ 						<Street>Nemiga</Street>
+ 						<House>4</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Plastic</Material>
+ 		<Capacity>1985.0</Capacity>
+ 		<Factory>
+ 			<Name>Bettermann</Name>
+ 			<Address>
+ 				<City>Vitebsk</City>
+ 				<Street>Partisanski</Street>
+ 				<House>5</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Petrov Petr</Name>
+ 					<DateOfBirth>1987-06-10</DateOfBirth>
+ 					<Address>
+ 						<City>Minsk</City>
+ 						<Street>Independence</Street>
+ 						<House>1</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	 	
+ 	
+ 	<Customer>
+ 		<Name>Karpov Igor</Name>
+ 		<Date>2005-09-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Skariny</Street>
+ 			<House>3</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Orange</Color> 	 	
+</Car> 
+
+<Car>
+ 	<Model>Mitsubishi</Model>
+ 	<DateOfManufacture>2017-11-11</DateOfManufacture>
+ 	<Motor>
+ 		<Force>110</Force>
+ 		<DateOfManufacture>2015-05-04</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Opel</Name>
+ 			<Address>
+ 				<City>Grodno</City>
+ 				<Street>Dzerzhinskogo</Street>
+ 				<House>3</House>
+ 			</Address> 			
+ 		</Factory>
+ 	</Motor>
+ 	
+ 	<Transmission>
+ 		<Name>Manual</Name>
+ 		<DateOfManufacture>2016-06-06</DateOfManufacture>
+ 		<Factory>
+ 			<Name>Siemens</Name>
+ 			<Address>
+ 				<City>Minsk</City>
+ 				<Street>Independence</Street>
+ 				<House>1</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Pushkin Alexey</Name>
+ 					<DateOfBirth>1994-05-01</DateOfBirth>
+ 					<Address>
+ 						<City>Nesvizh</City>
+ 						<Street>Nemiga</Street>
+ 						<House>4</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Transmission>
+  	
+  	<Body>
+ 		<Material>Steel</Material>
+ 		<Capacity>2000.0</Capacity>
+ 		<Factory>
+ 			<Name>Volvo</Name>
+ 			<Address>
+ 				<City>Gomel</City>
+ 				<Street>Skariny</Street>
+ 				<House>4</House>
+ 			</Address>
+ 			<Owners>
+ 				<Owner>
+ 					<Name>Sidorov Ivan</Name>
+ 					<DateOfBirth>1997-12-20</DateOfBirth>
+ 					<Address>
+ 						<City>Gomel</City>
+ 						<Street>Skariny</Street>
+ 						<House>3</House>
+ 					</Address>	
+ 				</Owner> 				
+ 			</Owners>
+ 		</Factory>
+ 	</Body>	 	
+ 	
+ 	<Customer>
+ 		<Name>Ivanov Andrey</Name>
+ 		<Date>2014-12-20</Date>
+ 		<Address>
+ 			<City>Gomel</City>
+ 			<Street>Lenina</Street>
+ 			<House>4/1</House>
+ 		</Address> 				
+ 	</Customer>
+ 	<Color>Orange</Color> 	 	
+</Car> 
+ 
+</Cars>
+
